@@ -1,0 +1,40 @@
+.fondo {
+    background: rgba(0, 0, 0, 0.4) url('../images/ba1.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.fontmin {
+    font-size: 10px;
+}
+
+.fontmedbold {
+    font-size: 15px;
+}
+
+.fontmed {
+  font-size: 12px;
+}
+
+.fondo2 {
+    background-color: #3a4042;
+    max-width: auto;
+    min-width: 300;
+  }
+
+  .izq {
+    text-align: left;
+    padding: 0em;
+  }
+
+  .enviar {
+    background-color: #95d135 !important;
+    border-color: #95d135 !important;
+  }
+
+  .color {
+    background-color: #123547;
+  }
